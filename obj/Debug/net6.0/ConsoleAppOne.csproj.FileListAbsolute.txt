@@ -1,0 +1,15 @@
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.exe
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.deps.json
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.runtimeconfig.json
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.dll
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.pdb
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.AssemblyInfoInputs.cache
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.AssemblyInfo.cs
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.sourcelink.json
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.dll
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\refint\ConsoleAppOne.dll
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.pdb
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.genruntimeconfig.cache
+C:\Mphasis\Simplilearn\Phase4\day3\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ref\ConsoleAppOne.dll
